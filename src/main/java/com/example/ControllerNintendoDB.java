@@ -13,7 +13,6 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.Priority;
 
-
 public class ControllerNintendoDB {
     @FXML
     private ComboBox<String> categoryComboBox;
